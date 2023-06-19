@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.ts"],"names":[],"mappings":";AAAA,IAAM,EAAkB,WACxB,QAAQ,IAAI","file":"example-ytp.aad13902.js","sourceRoot":"..","sourcesContent":["const mensaje: string = \"Hello TS\";\nconsole.log(mensaje);\n"]}

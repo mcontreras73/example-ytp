@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.ts"],"names":[],"mappings":";AAAA,IAAM,EAAkB,4BAExB,QAAQ,IAAI","file":"example-ytp.0e571d78.js","sourceRoot":"..","sourcesContent":["const mensaje: string = \"Hola, Hello TypeScript TS\";\n\nconsole.log(mensaje);\n"]}

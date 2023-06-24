@@ -11,7 +11,7 @@
   "scripts": {
     "tsc": "tsc index.ts",
     "dev": "parcel index.html",
-    "build": "rm -rf .cache dist && parcel build index.html",
+    "build": "rm -rf .cache dist && parcel build index.html --public-url ./",
     "deploy": "gh-pages -d dist"
   }
 }
